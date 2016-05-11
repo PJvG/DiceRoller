@@ -1,0 +1,8 @@
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\bin\Debug\Simple Dice Roller.exe
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\bin\Debug\Simple Dice Roller.pdb
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple_Dice_Roller.DiceRollerForm.resources
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple_Dice_Roller.Properties.Resources.resources
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple Dice Roller.csproj.GenerateResource.Cache
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple Dice Roller.exe
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple Dice Roller.pdb
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\Simple Dice Roller\obj\x86\Debug\Simple Dice Roller.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\SimpleDiceRoller\bin\Debug\SimpleDiceRoller.dll
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\SimpleDiceRoller\bin\Debug\SimpleDiceRoller.pdb
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.dll
+C:\Users\PJ\Documents\Projects\Dice Roller\Simple Dice Roller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.pdb
